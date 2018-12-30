@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android\\Four\\day04_test\\library\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\Android\\Four\\day04_test\\library\\src\\main\\res\\drawable-xhdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\Android\\Four\\day04_test\\library\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "F:\\Android\\Four\\day04_test\\library\\src\\main\\res\\drawable-xhdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\Android\\Four\\day04_test\\library\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\Android\\Four\\day04_test\\library\\src\\main\\res\\drawable-xhdpi\\default_ptr_flip.png"
+    }
+]

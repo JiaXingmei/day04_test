@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Android\\Four\\day04_test\\library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\Android\\Four\\day04_test\\library\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\Android\\Four\\day04_test\\library\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\Android\\Four\\day04_test\\library\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
